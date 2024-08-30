@@ -1,12 +1,6 @@
----
-layout: default
-title: Download the App
----
-
-# Download the app
 
 <p align="center">
-  <h1> Download SwipeNGo/h1>
+  <h1> Download SwipeNGo</h1>
 </p>
 
 <p align="center">
